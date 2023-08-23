@@ -1,0 +1,17 @@
+
+{
+  "data":[
+    { "id": 1, "name": "Vehicle in Transit" },
+    { "id": 2, "name": "New users" },
+    { "id": 3, "name": "Support Request" },
+    { "id": 4, "name": "Total Drivers" },
+    { "id": 5, "name": "Dashboard" },
+    { "id": 6, "name": "Vehicle Management" },
+    { "id": 7, "name": "Driver Management" },
+    { "id": 8, "name": "User Management" },
+    { "id": 9, "name": "Maintenance" },
+    { "id": 10, "name": "Support/Help" },
+    { "id": 11, "name": "Reports" },
+    { "id": 12, "name": "Alert/Notification" }
+    ]
+}

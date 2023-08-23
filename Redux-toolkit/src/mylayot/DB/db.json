@@ -1,0 +1,60 @@
+{
+   "details": [ 
+        {
+            "id":1,
+            "Name":"Krunal sanghavi",
+            "mb":"9327537809",
+            "dob":"16/07/1885",
+            "add":"C/3,Dhaval Flat, Near the jain templ,shahpur"
+        },
+        {
+            "id":2,
+            "Name":"Sejal Mukeshbhai Sheth",
+            "mb":"9429415003",
+            "dob":"27/07/1974",
+            "add":"5, Shree Appt. , Sadhav Collony, Udhyan Marg, Law Garden"
+        },
+        {
+            "id":3,
+            "Name":"Rashesh Navinbhai Doshi",
+            "mb":"8000846689",
+            "dob":"",
+            "add":"3/H, Swetal Appt, Shahpur"
+        },
+        {
+            "id":4,
+            "Name":"Malav Nileshbhai Shah",
+            "mb":"8160272271",
+            "dob":"",
+            "add":"13, Navkar Appt, Sabarmati"
+        },
+        {
+            "id":5,
+            "Name":"Saishav Manishbhai Adani",
+            "mb":"9426215903",
+            "dob":"",
+            "add":"Mithakhali"
+        },
+        {
+            "id":6,
+            "Name":"Vipul Rashikal Sanghavi",
+            "mb":"9979932822",
+            "dob":"",
+            "add":"3/B, Kartvya Recedancy, New Bhramstriya Society, Pritamnagar, paldi"
+        },
+        {
+            "id":7,
+            "Name":"Mokshi Parin Sanghvi",
+            "mb":"9833814643",
+            "dob":"11/04/1995",
+            "add":"402, Saprem Flat, Near Lemon Tree Hotel, Mithakhali"
+        },
+        {
+            "id":8,
+            "Name":"Priya parin Shah",
+            "mb":"9327537809",
+            "dob":"29/06/1989",
+            "add":"D/202, Dev Archan Flats, Paldi"
+        }
+    ]
+}
